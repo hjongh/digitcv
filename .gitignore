@@ -1,0 +1,5 @@
+# MNIST data files
+data/
+
+# Trained NN save files
+models/
